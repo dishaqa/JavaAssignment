@@ -5,7 +5,7 @@ public class while_loop {
 	public static void main(String[] args) 
 	{
 		int i =100;
-		while (i>=200) // this loop will never start
+		while (i>=200)  // this loop will never start
 		{
 			System.out.println(i);
 			i++;
